@@ -1,0 +1,9 @@
+/opt/st/stm32cubeide_1.14.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.100.202309141235/tools/arm-none-eabi/include/c++/11.3.1/bits/stl_vector.h:625:7:std::vector<_Tp, _Alloc>::vector(std::initializer_list<_Tp>, const allocator_type&) [with _Tp = SPI_camera::Register_blob_8; _Alloc = std::allocator<SPI_camera::Register_blob_8>]	32	static
+/opt/st/stm32cubeide_1.14.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.100.202309141235/tools/arm-none-eabi/include/c++/11.3.1/bits/stl_vector.h:553:7:std::vector<_Tp, _Alloc>::vector(const std::vector<_Tp, _Alloc>&) [with _Tp = SPI_camera::Register_blob_8; _Alloc = std::allocator<SPI_camera::Register_blob_8>]	24	static
+/opt/st/stm32cubeide_1.14.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.100.202309141235/tools/arm-none-eabi/include/c++/11.3.1/bits/stl_vector.h:333:7:std::_Vector_base<_Tp, _Alloc>::~_Vector_base() [with _Tp = SPI_camera::Register_blob_8; _Alloc = std::allocator<SPI_camera::Register_blob_8>]	8	static
+../Camera_driver/src/OV2640.cpp:3:6:virtual void OV2640::Init()	24	static
+../Camera_driver/src/OV2640.cpp:15:6:void OV2640::Init(const std::vector<SPI_camera::Register_blob_8>&)	32	static
+../Camera_driver/src/OV2640.cpp:28:1:void __static_initialization_and_destruction_0(int, int)	528	static
+../Camera_driver/src/OV2640.cpp:28:1:cpp)	8	static
+../Camera_driver/src/OV2640.cpp:28:1:cpp)	8	static
+../Camera_driver/src/OV2640.cpp:24:6:virtual void OV2640::Capture(uint)	16	static
